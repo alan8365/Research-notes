@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220309.md",
+                "file": "Papers/Improving stock market prediction via heterogeneous information fusion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20220309.md",
+                "file": "Papers/Improving stock market prediction via heterogeneous information fusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20220309.md"
+                "file": "Papers/Improving stock market prediction via heterogeneous information fusion.md"
               }
             }
           },
@@ -191,14 +191,14 @@
     "width": 280.0370178222656,
     "collapsed": true
   },
-  "active": "b71d8cf90db3f73f",
+  "active": "6a432e4821513272",
   "lastOpenFiles": [
+    "Papers/Improving stock market prediction via heterogeneous information fusion.md",
     "Day Planners/Day Planner-20220309.md",
     "Project/Seminar (II) (1102).md",
     "Papers/Proposal/Self-supervised learning with self-similarity.md",
     "Lists/Paper list.md",
     "Project/Stock NLP conference paper.md",
-    "Papers/Improving stock market prediction via heterogeneous information fusion.md",
     "Day Planners/Day Planner-20220308.md",
     "Task/Stock NLP conference paper.md",
     "Temporary/Stock NLP conference paper.md",
