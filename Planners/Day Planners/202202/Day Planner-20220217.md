@@ -1,0 +1,41 @@
+## Day Planner
+- [ ] cold shower
+## Morning
+- [x] 10:30 [[Lulu's review report#VI Knowledge-Aware Applications]]
+- [x] 10:55 BREAK
+- [x] 11:00 [[Lulu's review report#VII Future Directions]]
+- [x] 11:25 BREAK
+- [x] 11:30 [[Lulu's review report]]
+- [x] 11:55 BREAK
+## Evening
+- [x] 13:00 [[Lulu's review report]]
+- [x] 13:25 BREAK
+- [x] 13:30 [[Lulu's review report]]
+- [x] 13:55 BREAK
+- [x] 14:00 [[Lulu's review report]]
+- [x] 14:25 BREAK
+- [x] 14:30 [[Lulu's review report]]
+- [x] 14:55 BREAK
+- [x] 15:00 [[Lulu's review report]]
+- [x] 15:25 BREAK
+- [x] 15:30 [[Lulu's review report]]
+- [x] 15:55 BREAK
+- [x] 16:00 [[Lulu's review report]]
+- [x] 16:25 BREAK
+- [x] 16:30 [[Lulu's review report]]
+- [x] 16:55 BREAK
+- [x] 17:00 [[Lulu's review report]]
+- [x] 17:25 BREAK
+## Night
+- [x] 20:00 [[Dentist CV project#Idea collect]]
+- [x] 20:25 BREAK
+- [x] 20:30 [[Dentist CV project#Idea collect]]
+- [x] 20:55 BREAK
+- [x] 21:00 [[Dentist CV project#Idea collect]]
+- [x] 21:25 BREAK
+- [x] 21:30 [[Dentist CV project#Idea collect]]
+- [x] 21:55 BREAK
+- [x] 23:00 [[Dentist CV project#Idea test]]
+- [x] 23:25 BREAK
+- [x] 23:30 [[Dentist CV project#Idea test]]
+- [x] 23:55 BREAK

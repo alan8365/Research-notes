@@ -1,0 +1,2 @@
+- [ ] Note [[A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News]]
+- [ ] Try [[Stock NLP conference paper]]

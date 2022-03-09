@@ -1,0 +1,14 @@
+{
+  "spellcheck": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "trashOption": "system",
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Attachment",
+  "promptDelete": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabeticalReverse",
+  "newFileFolderPath": "Temporary"
+}

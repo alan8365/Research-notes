@@ -1,0 +1,20 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Project/Stock NLP conference paper.md",
+    "Project/Monthly paper report.md",
+    "Project/Seminar (II) (1102).md",
+    "Project/Dentist CV project.md",
+    "Project/Dentist CV conference paper.md"
+  ],
+  "_hiddenTags": []
+}

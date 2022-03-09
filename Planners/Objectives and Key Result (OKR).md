@@ -1,0 +1,4 @@
+- Object
+	- What you want to reach.
+- Key result
+	- How to reach.
