@@ -17,7 +17,7 @@ Key paepr Candidate
 
 ### NLP
 
-- [stock prediction sentiment](https://www.webofscience.com/wos/woscc/summary/a26d25ed-2cc0-472f-9b1b-2bb62c26efc8-2731c57b/relevance/1)
+- [TS=((stock) AND (predict*) (sentiment))](https://www.webofscience.com/wos/woscc/summary/261ac2ad-b5d7-4073-8655-be574b568b8b-28b1f387/relevance/1)
 	- 379
 	- Articles: 365
 	- Early Access: 18
@@ -26,20 +26,10 @@ Key paepr Candidate
 	- Book Chapters: 1
 	- Editorial Materials: 1
 - stock prediction news
+- financial sentiment analysis
 
 Papers
-- Natural language based financial forecasting: a survey
-	- 針對金融而不只是股市的回顧文章，可以放related work
-- Predicting short-term stock prices using ensemble methods and online data sources
-	- 多個資料來源和多個預測方法
-- Technical analysis and sentiment embeddings for market trend prediction
-	- 拿技術面和消息面指標高頻交易，年化80%
-- Deep Learning Approach for Short-Term Stock Trends Prediction Based on Two-Stream Gated Recurrent Unit Network
-	- 以金融辭典改善語言模型讓預測效果上升
-- Improving stock market prediction via heterogeneous information fusion
-	- 從新聞和社交媒體兩方面提取特徵預測
-- A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News
-
+![[Paper list#for stock NLP review]]
 
 
 ## 20220303 (week 2)
