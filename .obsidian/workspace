@@ -6,50 +6,15 @@
       {
         "id": "6a432e4821513272",
         "type": "leaf",
-        "dimension": 61.72086720867209,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Papers/Improving stock market prediction via heterogeneous information fusion.md",
+            "file": "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
         }
-      },
-      {
-        "id": "b2a625d7f8106d55",
-        "type": "split",
-        "dimension": 38.27913279132791,
-        "children": [
-          {
-            "id": "b71d8cf90db3f73f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20220309.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "267532b1a2c7b90a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Proposal/Self-supervised learning with self-similarity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Improving stock market prediction via heterogeneous information fusion.md",
+                "file": "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Improving stock market prediction via heterogeneous information fusion.md",
+                "file": "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Improving stock market prediction via heterogeneous information fusion.md"
+                "file": "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md"
               }
             }
           },
@@ -193,15 +158,15 @@
   },
   "active": "6a432e4821513272",
   "lastOpenFiles": [
+    "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
     "Papers/Improving stock market prediction via heterogeneous information fusion.md",
+    "Papers/Proposal/Self-supervised learning with self-similarity.md",
+    "Day Planners/Day Planner-20220310.md",
     "Day Planners/Day Planner-20220309.md",
     "Project/Seminar (II) (1102).md",
-    "Papers/Proposal/Self-supervised learning with self-similarity.md",
     "Lists/Paper list.md",
     "Project/Stock NLP conference paper.md",
     "Day Planners/Day Planner-20220308.md",
-    "Task/Stock NLP conference paper.md",
-    "Temporary/Stock NLP conference paper.md",
-    "Lists/Project list.md"
+    "Task/Stock NLP conference paper.md"
   ]
 }
