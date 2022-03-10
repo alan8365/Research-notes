@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
+            "file": "Project/Seminar (II) (1102).md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "438759b24cba9da9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Temporary/Leetcode-.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -73,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
+                "file": "Temporary/Leetcode-.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -90,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
+                "file": "Temporary/Leetcode-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md"
+                "file": "Temporary/Leetcode-.md"
               }
             }
           },
@@ -156,17 +169,17 @@
     "width": 280.0370178222656,
     "collapsed": true
   },
-  "active": "6a432e4821513272",
+  "active": "438759b24cba9da9",
   "lastOpenFiles": [
+    "Temporary/Leetcode-.md",
+    "Project/Seminar (II) (1102).md",
     "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
     "Papers/Improving stock market prediction via heterogeneous information fusion.md",
     "Papers/Proposal/Self-supervised learning with self-similarity.md",
     "Day Planners/Day Planner-20220310.md",
     "Day Planners/Day Planner-20220309.md",
-    "Project/Seminar (II) (1102).md",
     "Lists/Paper list.md",
     "Project/Stock NLP conference paper.md",
-    "Day Planners/Day Planner-20220308.md",
-    "Task/Stock NLP conference paper.md"
+    "Day Planners/Day Planner-20220308.md"
   ]
 }
