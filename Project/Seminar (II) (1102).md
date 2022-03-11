@@ -14,6 +14,11 @@
 - Find 5 queries to review in WoS.
 - Review key paper.
 
+Question
+- Top result of a region
+- Less paper to review
+- How to compare the result
+
 ### CV
 
 Key paepr Candidate

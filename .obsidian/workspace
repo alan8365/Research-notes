@@ -17,17 +17,50 @@
         }
       },
       {
-        "id": "438759b24cba9da9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Temporary/Leetcode-.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "38a391e362cb489f",
+        "type": "split",
+        "children": [
+          {
+            "id": "438759b24cba9da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temporary/Leetcode-.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2f209e4854c7bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temporary/Leetcode-.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a12e2ba0af7fedfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20220310.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temporary/Leetcode-.md",
+                "file": "Day Planners/Day Planner-20220310.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temporary/Leetcode-.md",
+                "file": "Day Planners/Day Planner-20220310.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporary/Leetcode-.md"
+                "file": "Day Planners/Day Planner-20220310.md"
               }
             }
           },
@@ -169,14 +202,14 @@
     "width": 280.0370178222656,
     "collapsed": true
   },
-  "active": "438759b24cba9da9",
+  "active": "a12e2ba0af7fedfc",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220310.md",
     "Temporary/Leetcode-.md",
     "Project/Seminar (II) (1102).md",
     "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
     "Papers/Improving stock market prediction via heterogeneous information fusion.md",
     "Papers/Proposal/Self-supervised learning with self-similarity.md",
-    "Day Planners/Day Planner-20220310.md",
     "Day Planners/Day Planner-20220309.md",
     "Lists/Paper list.md",
     "Project/Stock NLP conference paper.md",
