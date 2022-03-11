@@ -1,2 +1,4 @@
 ## Day Planner
-- [ ] sleeping well
+- [x] sleeping well
+## Morning
+- [x] 11:00 [[Keke meeting]]
