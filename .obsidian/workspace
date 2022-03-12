@@ -17,37 +17,17 @@
         }
       },
       {
-        "id": "38a391e362cb489f",
-        "type": "split",
-        "children": [
-          {
-            "id": "04b74956e2e720b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a12e2ba0af7fedfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20220310.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+        "id": "04b74956e2e720b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20220312.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
+                "file": "Day Planners/Day Planner-20220312.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
+                "file": "Day Planners/Day Planner-20220312.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md"
+                "file": "Day Planners/Day Planner-20220312.md"
               }
             }
           },
@@ -191,15 +171,15 @@
   },
   "active": "04b74956e2e720b9",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220312.md",
+    "Day Planners/Day Planner-20220311.md",
     "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
+    "Day Planners/Day Planner-20220310.md",
     "Papers/The evolution of sentiment analysis—A review of research topics, venues, and top cited papers.md",
     "Temporary/Leetcode-.md",
-    "Day Planners/Day Planner-20220311.md",
     "Temporary/Keke meeting.md",
     "Project/Seminar (II) (1102).md",
-    "Day Planners/Day Planner-20220310.md",
     "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
-    "Papers/Improving stock market prediction via heterogeneous information fusion.md",
-    "Papers/Proposal/Self-supervised learning with self-similarity.md"
+    "Papers/Improving stock market prediction via heterogeneous information fusion.md"
   ]
 }
