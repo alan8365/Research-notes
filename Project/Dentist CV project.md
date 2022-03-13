@@ -8,6 +8,11 @@
 
 ### YOLOv5
 
+detect test
+```shell
+python detect.py --weights .\dentist_cv\exp12\weights\best.pt --source .\datasets\pano630\val\images\202008250508501754_0950923A.jpg --save-txt --save-crop
+```
+
 ## Idea collect
 ### Edge detection
 

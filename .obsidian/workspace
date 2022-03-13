@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220312.md",
+                "file": "Temporary/Keke meeting.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20220312.md",
+                "file": "Temporary/Keke meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20220312.md"
+                "file": "Temporary/Keke meeting.md"
               }
             }
           },
@@ -169,17 +169,17 @@
     "width": 280.0370178222656,
     "collapsed": true
   },
-  "active": "04b74956e2e720b9",
+  "active": "6a432e4821513272",
   "lastOpenFiles": [
+    "Temporary/Keke meeting.md",
+    "Project/Stock NLP conference paper.md",
+    "Project/Dentist CV project.md",
     "Day Planners/Day Planner-20220312.md",
     "Day Planners/Day Planner-20220311.md",
     "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
     "Day Planners/Day Planner-20220310.md",
     "Papers/The evolution of sentiment analysis—A review of research topics, venues, and top cited papers.md",
     "Temporary/Leetcode-.md",
-    "Temporary/Keke meeting.md",
-    "Project/Seminar (II) (1102).md",
-    "Temporary/Leetcode-3. Longest Substring Without Repeating Characters.md",
-    "Papers/Improving stock market prediction via heterogeneous information fusion.md"
+    "Project/Seminar (II) (1102).md"
   ]
 }
