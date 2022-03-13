@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Temporary/Keke meeting.md",
+            "file": "Temporary/Seminar (II) key paper reading report.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,17 +17,39 @@
         }
       },
       {
-        "id": "04b74956e2e720b9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Day Planners/Day Planner-20220312.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "d67f3d46b5e613a6",
+        "type": "split",
+        "children": [
+          {
+            "id": "c6dd20f344c6ab2d",
+            "type": "leaf",
+            "dimension": 29.230769230769234,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20220313.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fb8fa8443e756ab",
+            "type": "leaf",
+            "dimension": 70.76923076923077,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temporary/Keke meeting.md",
+                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temporary/Keke meeting.md",
+                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporary/Keke meeting.md"
+                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md"
               }
             }
           },
@@ -169,17 +191,17 @@
     "width": 280.0370178222656,
     "collapsed": true
   },
-  "active": "6a432e4821513272",
+  "active": "4fb8fa8443e756ab",
   "lastOpenFiles": [
-    "Temporary/Keke meeting.md",
-    "Project/Stock NLP conference paper.md",
-    "Project/Dentist CV project.md",
-    "Day Planners/Day Planner-20220312.md",
-    "Day Planners/Day Planner-20220311.md",
     "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
-    "Day Planners/Day Planner-20220310.md",
-    "Papers/The evolution of sentiment analysis—A review of research topics, venues, and top cited papers.md",
-    "Temporary/Leetcode-.md",
-    "Project/Seminar (II) (1102).md"
+    "Day Planners/Day Planner-20220313.md",
+    "Temporary/Seminar (II) key paper reading report.md",
+    "Temporary/Untitled 2.md",
+    "Temporary/Untitled 1.md",
+    "Temporary/Untitled.md",
+    "Project/Seminar (II) (1102).md",
+    "Project/Done/Momo's review report.md",
+    "Temporary/Keke meeting.md",
+    "Papers/Improving stock market prediction via heterogeneous information fusion.md"
   ]
 }
