@@ -48,9 +48,10 @@
 ### 3.2 Tensor Decomposition and Reconstruction
 - 本章說明如何透過塔克分解捕捉不同資料源的聯繫。
 ### 3.3 Stock Relatedness
-
+- 傳統金融中使用皮爾森相關係數計算股票間關聯性。
+- 此研究將新聞中同時提及的股票作關聯，提及新聞越多關聯愈強。
 ### 3.4 Multimodal Event-Driven LSTM Model
-
+- 新聞隨機時間出現的特性會使LSTM的長期依賴機制失效。
 #### 3.4.1 Event-Driven LSTM Model
 
 #### 3.4.2 Tensor-Based Convolution Operation
