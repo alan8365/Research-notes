@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temporary/Seminar (II) key paper reading report.md",
+                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temporary/Seminar (II) key paper reading report.md",
+                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temporary/Seminar (II) key paper reading report.md"
+                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md"
               }
             }
           },
@@ -191,10 +191,10 @@
     "width": 280.0370178222656,
     "collapsed": true
   },
-  "active": "6a432e4821513272",
+  "active": "4fb8fa8443e756ab",
   "lastOpenFiles": [
-    "Temporary/Seminar (II) key paper reading report.md",
     "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
+    "Temporary/Seminar (II) key paper reading report.md",
     "Day Planners/Day Planner-20220313.md",
     "Temporary/Untitled 2.md",
     "Temporary/Untitled 1.md",
