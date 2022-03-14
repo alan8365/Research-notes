@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "d8d05a018a9a9e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a432e4821513272",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Temporary/Seminar (II) key paper reading report.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d67f3d46b5e613a6",
+        "type": "split",
+        "children": [
+          {
+            "id": "c3a3b1902b3825b4",
+            "type": "leaf",
+            "dimension": 31.11342351716961,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20220314.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fb8fa8443e756ab",
+            "type": "leaf",
+            "dimension": 68.88657648283039,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9fa66876de23cd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3014c4715bc27c02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8193af6fda34bfcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "159c82d2f9ef1b14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "投資者",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ce42aa1313c737f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc12af14a467cc86",
+        "type": "tabs",
+        "dimension": 65.38461538461539,
+        "children": [
+          {
+            "id": "535771a414c3c1b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Temporary/Seminar (II) key paper reading report.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "464e585163f90e4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Temporary/Seminar (II) key paper reading report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6562ca8cc589737f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Temporary/Seminar (II) key paper reading report.md"
+              }
+            }
+          },
+          {
+            "id": "55a9407ac6a2364f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9dcc609d6d50f6b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0f0ebd7bfea863c2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "c1a1e1a5415b7ff3",
+        "type": "tabs",
+        "dimension": 34.61538461538461,
+        "children": [
+          {
+            "id": "30c1c4c1d9077f59",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.0370178222656,
+    "collapsed": true
+  },
+  "active": "6a432e4821513272",
+  "lastOpenFiles": [
+    "Temporary/Seminar (II) key paper reading report.md",
+    "Papers/A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News.md",
+    "Day Planners/Day Planner-20220314.md",
+    "Papers/Optimized 2D ball trees for shape layout applications.md",
+    "Project/Computer vision (1102).md",
+    "Day Planners/Day Planner-20220313.md",
+    "Temporary/Untitled 2.md",
+    "Temporary/Untitled 1.md",
+    "Temporary/Untitled.md",
+    "Project/Seminar (II) (1102).md"
+  ]
+}
