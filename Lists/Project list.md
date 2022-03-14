@@ -10,6 +10,7 @@
 - [[Monthly paper report]]
 ### Personal
 - [[SOP framer]]
+- [[Stanford's Writing in the Sciences course]]
 ## Next
 ## Done
 - [[Momo's review report]]
