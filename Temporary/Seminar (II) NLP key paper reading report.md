@@ -53,9 +53,9 @@
 ### 3.4 Multimodal Event-Driven LSTM Model
 - 新聞隨機時間出現的特性會使LSTM的長期依賴機制失效。
 #### 3.4.1 Event-Driven LSTM Model
-
+- 主要透過在LSTM的output gate加上新聞事件資訊來實現事件驅動。
 #### 3.4.2 Tensor-Based Convolution Operation
-
+- 合併張量間關係的方式是使用卷積對各張量和權重運算，所以是卷積式LSTM。
 ## 4. Experimental Evaluation
 
 ### 4.1 Experimental Data
