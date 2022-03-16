@@ -1,5 +1,6 @@
 [[Self-supervised learning for medical image analysis using image context restoration]]
 
+
 ## Abstract
 - 深度學習模型訓練需要大量的標記資料。
 - 醫學圖像分析中經常缺乏標記並含有大量未標記資料。
