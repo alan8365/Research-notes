@@ -48,31 +48,43 @@
 ### 3.2 Tensor Decomposition and Reconstruction
 - 本章說明如何透過塔克分解捕捉不同資料源的聯繫。
 ### 3.3 Stock Relatedness
-
+- 傳統金融中使用皮爾森相關係數計算股票間關聯性。
+- 此研究將新聞中同時提及的股票作關聯，提及新聞越多關聯愈強。
 ### 3.4 Multimodal Event-Driven LSTM Model
-
+- 新聞隨機時間出現的特性會使LSTM的長期依賴機制失效。
 #### 3.4.1 Event-Driven LSTM Model
-
+- 主要透過在LSTM的output gate加上新聞事件資訊來實現事件驅動。
 #### 3.4.2 Tensor-Based Convolution Operation
-
+- 合併張量間關係的方式是使用卷積對各張量和權重運算，所以是卷積式LSTM。
 ## 4. Experimental Evaluation
-
 ### 4.1 Experimental Data
-
+- 基本面資料蒐集2015整年度的CSI100公司資料。
+- 新聞面從中國財經新聞網站蒐集了CSI100有關的45021條新聞。
 ### 4.2 Evaluation Settings
-
+- 模型評估的指標為方向準確率(DA)跟馬修斯相關係數(MCC)。
+- DA只與正確數量佔總數的多少有關，無法評估不平衡資料的情況。
+- MCC則考慮了所有四個象限的指標。
+- 同時也使用夏普率評估模型所做出的投資穩健性。
 ### 4.3 Model Parameters
-
+略
 ### 4.4 Comparison
-
+- 在針對股票方向的預測上此研究贏過諸多經典模型和當時最先進的TeSLA模型。
 ### 4.5 Effectiveness of the Proposed Approach
-
 #### 4.5.1 Effectiveness of the Tensor Representation
-
+- 此節比較向量和張量對於模型的好壞，在傳統LSTM的三項實驗中張量贏過兩項，在事件驅動LSTM中則張量全贏。
+- 作者推測張量有一場失敗的原因在於該實驗同時考慮開盤和收盤價，這為模型帶來額外的資訊。
+- 說的好像只有向量享受到額外資訊張量沒有似的。
 #### 4.5.2 Effectiveness of the Event-Driven Mechanism
-
+- 此節比較事件驅動的有無，在向量和張量根基兩種模型中事件驅動都贏過傳統LSTM。
 #### 4.5.3 Effectiveness of Stock Relatedness
-
+- 此節比較如何處理新聞對多支股票的影響而非只是處理傳統一對一影響。
+- 第一種方式是參考媒體企業網路中的聯繫為參考。
+- 第二種是本研究的方法，將新聞中重複提及的公司做連結。
+- 第一種方式好過不考慮對多支股票的影響，第二種方式好過第一種。
 ### 4.6 Investment Simulation
-
+- 此節實驗模型用於交易的表現，若預測股票將上漲則買入或放空後六天結算，實驗三個月。
+- 該模型表現超過TeSLA和大盤指數等等交易策略。
+- 同時模型的夏普率也最高，代表在風險和報酬間的權衡得當。
+- 實驗時間有夠短，還沒有考慮在熊市和牛市情況下分別長期實驗，公信力欠缺。
 ## 5. Conclusion and Future Work
+- 此研究所提出的張亮表示方法可推廣於更多多模態問題中，例如醫療保健監測等等。
