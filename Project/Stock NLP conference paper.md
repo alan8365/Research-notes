@@ -13,6 +13,9 @@
 - [ ] Coding v1 model
 - [ ] Reading Multimodal
 
+## Abstract
+
+如何預測股票價格一直是備受關注的主題，其中股價如何受網路資訊影響也是許多研究探討的關鍵。本文提出針對金融領域處理的BERT變體fin-BERT，將BERT預訓練時所使用的資料來源改為從Stocktwits蒐集並處理後重新訓練。
 
 ## Reference
 - [[A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News]]
