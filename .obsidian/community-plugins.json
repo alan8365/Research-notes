@@ -4,5 +4,7 @@
   "table-editor-obsidian",
   "obsidian-git",
   "obsidian-admonition",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "cycle-through-panes",
+  "better-word-count"
 ]
