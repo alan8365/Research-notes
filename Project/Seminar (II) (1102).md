@@ -1,13 +1,15 @@
 [110_下學期書報 - Google Drive](https://drive.google.com/drive/folders/15Kjt4BxRB1usgOTQ9Xuqwwj3xnvg_8hi)
 
-#todo 
-- [ ] CV find query
-- [ ] NLP find query
-- [ ] CV key paper finding
-- [ ] NLP key paper reading
-
 ## 20200317
+homework
+- coding excel
 
+- review paper number 50~150
+
+random progress presentation 
+- title
+- paper finding method
+- coding situation
 
 
 ## 20200310 
