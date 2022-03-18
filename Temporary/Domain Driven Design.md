@@ -1,0 +1,1 @@
+Progress: [戰略設計：Bounded Context 深度解析 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天 (ithome.com.tw)](https://ithelp.ithome.com.tw/articles/10218252)

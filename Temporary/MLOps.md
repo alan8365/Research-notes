@@ -1,0 +1,1 @@
+[從 AI 落地談 MLOps :: 2021 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20121130/ironman/4015)
