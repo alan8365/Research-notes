@@ -4,6 +4,21 @@
 - [ ] Reasoning why 43 special. 
 - [ ] edge detection test.
 
+## Meeting
+### 2022/03/18
+- 3月底300張標註
+- 有牙無牙的標註
+
+確認完成事項
+- 牙位偵測
+	- precision優先，recall0.9以上
+- 牙齒狀態診斷、歸類
+	- 透過標籤訓練框定12項類別
+- API開發、協助串接
+	- 輸入pano圖 ，tif跟jpg都要可以
+	- 輸出12項類別有無和出現牙位的json檔案
+	- 協助將程式部署於公司雲端
+
 ## Idea test
 
 ### YOLOv5
@@ -22,15 +37,6 @@ python detect.py --weights .\dentist_cv\exp12\weights\best.pt --source .\dataset
 #### MLops
 [MLflow - A platform for the machine learning lifecycle | MLflow](https://mlflow.org/)
 [mlflow/mlflow: Open source platform for the machine learning lifecycle (github.com)](https://github.com/mlflow/mlflow)
-
-## Meeting
-
-### 20220303
-
-
-
-計畫內容
-- 
 
 ## Reference
 
