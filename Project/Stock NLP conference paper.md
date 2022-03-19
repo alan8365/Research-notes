@@ -22,8 +22,9 @@
 ### Lib
 - [🤗 Transformers (huggingface.co)](https://huggingface.co/docs/transformers/index)
 - [Datasets (huggingface.co)](https://huggingface.co/docs/datasets/index)
-jjjj
 ## Reference
+- BERTweet: A pre-trained language model for English Tweets
+	- 跟現在方向很近的paper
 - [[A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News]]
 	- 參考內容是否可延伸為研究方向。
 - Wikipedia and stock return: Wikipedia usage pattern helps to predict the individual stock movement
