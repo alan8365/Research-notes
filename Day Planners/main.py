@@ -1,4 +1,3 @@
-from itertools import cycle
 from datetime import datetime
 from glob import glob
 
@@ -21,7 +20,7 @@ def time_add(time, minutes):
     return f'{org_hours.zfill(2)}:{org_minutes.zfill(2)}'
 
 
-def cycle_to_planner(today):
+def turn_to_planner(today):
     today = today.strftime("%Y%m%d")
     file_name = f'Day Planner-{today}.md'
 
@@ -30,45 +29,45 @@ def cycle_to_planner(today):
         file_content = f.readlines()
         pass
 
-    # get cycle number and index
-    cycle_line_numbers = []
-    pattern = r'> (\d*) cycle'
+    # get turn number and index
+    turn_line_numbers = []
+    pattern = r'> (\d*) turn'
     for i in range(len(file_content)):
         match = re.match(pattern, file_content[i])
         if match:
             temp = {
                 'index': i,
-                'cycle': int(match.groups()[0])
+                'turn': int(match.groups()[0])
             }
 
-            cycle_line_numbers.append(temp)
+            turn_line_numbers.append(temp)
 
     result = file_content.copy()
     pattern = r'- \[.\] (\d*:\d*) (.*)'
-    for cycle_line_number in cycle_line_numbers:
+    for turn_line_number in turn_line_numbers:
         # get base text info
-        text = file_content[cycle_line_number['index']+1]
+        text = file_content[turn_line_number['index']+1]
         match = re.match(pattern, text)
         time, task = match.groups()
 
-        # generate cycle
-        cycle_texts = [text, ]
-        for i in range(cycle_line_number['cycle']):
+        # generate turn
+        turn_texts = [text, ]
+        for i in range(turn_line_number['turn']):
             work_line = f'- [ ] {time_add(time, (i + 1) * 30)} {task}'
             break_line = f'- [ ] {time_add(time, 25 + (i * 30))} BREAK'
 
-            cycle_texts.append(break_line)
-            cycle_texts.append(work_line)
+            turn_texts.append(break_line)
+            turn_texts.append(work_line)
 
         # remove last redundant element
-        cycle_texts.pop()
-        cycle_text = '\n'.join(cycle_texts)
-        result[cycle_line_number['index']+1] = cycle_text
+        turn_texts.pop()
+        turn_text = '\n'.join(turn_texts)
+        result[turn_line_number['index']+1] = turn_text
 
-    # remove cycle line
-    cycle_line_numbers.reverse()
-    for cycle_line_number in cycle_line_numbers:
-        result.pop(cycle_line_number['index'])
+    # remove turn line
+    turn_line_numbers.reverse()
+    for turn_line_number in turn_line_numbers:
+        result.pop(turn_line_number['index'])
 
     with open(file_name, 'w') as f:
         f.writelines(result)
@@ -98,6 +97,6 @@ def clearfy_day_planner_dir():
         os.rename(file_path, os.path.join(target_dir, file_name))
 
 if __name__ == '__main__':
-    cycle_to_planner(datetime.now())
+    turn_to_planner(datetime.now())
     move_redudant_md('..\Planners\Day Planners')
     clearfy_day_planner_dir()
