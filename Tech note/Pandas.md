@@ -56,3 +56,6 @@ reviews.loc[reviews.price.notnull()]
 reviews.loc[(reviews.country == 'Italy') | (reviews.points >= 90)]
 ```
 
+
+## Data parse
+
