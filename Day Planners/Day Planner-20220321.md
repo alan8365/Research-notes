@@ -1,2 +1,2 @@
 ## Day Planner
-- [ ] sleeping well
+- [x] sleeping well
