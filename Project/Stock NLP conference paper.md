@@ -10,8 +10,12 @@
 
 ## TODO
 #todo
-- [ ] Coding v1 model
-- [ ] Reading Multimodal
+- [ ] Training mask model
+	- [ ] Bert (optional)
+	- [ ] Fin-Bert
+- [ ] Training head model
+	- [ ] Bert
+	- [ ] Fin-Bert
 
 ## Abstract
 
