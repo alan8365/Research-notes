@@ -24,6 +24,7 @@ Introduction and related work reference by:
 	- [ ] 訓練步驟
 - [ ] 實驗
 	- [ ] 實驗細節
+	- [ ] 實驗比較
 	- [ ] 檢查第50輪訓練的cls的分類狀況
 	- [ ] 實驗結果
 - [ ] 結論
