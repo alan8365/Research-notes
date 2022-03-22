@@ -36,6 +36,7 @@ Key paepr Candidate
 	- Proceedings Papers: 5
 	- Book Chapters: 1
 	- Editorial Materials: 1
+- TS=(stock AND predict* AND sentiment NOT proxy)
 - stock prediction news
 - financial sentiment analysis
 
