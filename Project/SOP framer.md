@@ -3,6 +3,7 @@
 - [ ] Automate files operate.
 - [ ] Task-based architecture develops needed.
 - [ ] Folder clear. (only use objective invariant state classify)
+- [ ] Task countdown in obsidian.
 ## Doc
 - Task-based architecture.
 - Task-key results-objects system
