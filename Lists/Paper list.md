@@ -1,5 +1,6 @@
 ## stock NLP 
 ### for stock NLP review
+- BERTweet: A pre-trained language model for English Tweets
 - Natural language based financial forecasting: a survey
 	- 針對金融而不只是股市的回顧文章，可以放related work
 - Predicting short-term stock prices using ensemble methods and online data sources
