@@ -33,6 +33,8 @@ Introduction and related work reference by:
 
 
 ## Abstract
+基於YOLO的全口圖像牙位辨識
+
 > 背景: 牙科的重要性
 > 問題: 牙醫師需自行操作標註牙況，費時費力
 > 方法: 透過YOLO標註牙位
