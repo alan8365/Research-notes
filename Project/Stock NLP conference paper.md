@@ -47,13 +47,6 @@ Fin-BERT: 用於股市情緒的預訓練語言模型
 - [🤗 Transformers (huggingface.co)](https://huggingface.co/docs/transformers/index)
 - [Datasets (huggingface.co)](https://huggingface.co/docs/datasets/index)
 ## Reference
-- BERTweet: A pre-trained language model for English Tweets
-	- 跟現在方向很近的paper
-- [[A Multimodal Event-Driven LSTM Model for Stock Prediction Using Online News]]
-	- 參考內容是否可延伸為研究方向。
-- Wikipedia and stock return: Wikipedia usage pattern helps to predict the individual stock movement
-- Sentiment analysis algorithms and applications: A survey
-	- 情緒分析的回顧
-- Evaluation of Sentiment Analysis in Finance: From Lexicons to Transformers
-	- 情緒分析在金融的超級比一比
-- Text Mining of Stocktwits Data for Predicting Stock Prices
+
+### Reading later
+![[Paper list#for stock NLP conference]]
