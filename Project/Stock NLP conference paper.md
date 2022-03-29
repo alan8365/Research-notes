@@ -44,6 +44,7 @@ Fin-BERT: 用於股市情緒的預訓練語言模型
 		- [[Intraday online investor sentiment and return patterns in the U.S. stock market (2017)]]
 	- 從網路挖掘情緒
 		- [[Intraday online investor sentiment and return patterns in the U.S. stock market (2017)]]
+	- BERT
 	- 意見分類
 		- [[Emotion space model for classifying opinions in stock message board (2016)]]
 - 方法
