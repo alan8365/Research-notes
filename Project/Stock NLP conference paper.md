@@ -57,7 +57,7 @@ Fin-BERT: 用於股市情緒的預訓練語言模型
 - 結論
 
 ## Codes
-
+[Stocktwit_sentiment_analysis Workspace – Weights & Biases (wandb.ai)](https://wandb.ai/alan8365/Stocktwit_sentiment_analysis?workspace=user-alan8365)
 - [ ] sentiment analysis downstream task
 
 ### Lib
