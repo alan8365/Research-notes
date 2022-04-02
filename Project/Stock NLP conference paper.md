@@ -43,12 +43,13 @@ Fin-BERT: 用於股市情緒的預訓練語言模型
 	- 情緒對股市影響
 		- 金融指標和網路來源出現的情緒差別優劣，為什麼要用網路來源(暫定)
 		- [[Intraday online investor sentiment and return patterns in the U.S. stock market (2017)]]
-	- 從網路挖掘情緒
+	- 網路情緒蒐集
 		- 回顧和分析其他挖掘手段或來源，如yahoo新聞和google搜尋量
-		- [[Intraday online investor sentiment and return patterns in the U.S. stock market (2017)]]
+		- [[Which sentiment index is more informative to forecast stock market volatility Evidence from China (2020)]]
+			- 關於網路情緒有用的相關證據
 	- BERT
 		- 看要寫這邊還是要寫在第三章
-		- 容易公式放在第三章，介紹放在第二章
+		- 參考容易公式放在第三章，介紹放在第二章
 	- 意見分類
 		- 看看Bertweet怎麼放的
 		- [[Emotion space model for classifying opinions in stock message board (2016)]]
