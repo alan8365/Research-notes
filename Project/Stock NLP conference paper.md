@@ -57,6 +57,13 @@ Fin-BERT: 用於股市情緒的預訓練語言模型
 - 案例探討
 - 結論
 
+## 2. 文獻回顧
+
+### 2.1 情緒對股市影響
+### 2.2 網路情緒蒐集
+### Bert
+### 意見分類
+
 ## Codes
 [Stocktwit_sentiment_analysis Workspace – Weights & Biases (wandb.ai)](https://wandb.ai/alan8365/Stocktwit_sentiment_analysis?workspace=user-alan8365)
 - [ ] sentiment analysis downstream task
