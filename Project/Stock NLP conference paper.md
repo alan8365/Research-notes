@@ -40,8 +40,10 @@ Fin-BERT: 用於股市情緒的預訓練語言模型
 ## Outlines
 - 介紹
 - 文獻探討
-	- 情緒對股市影響
-		- 金融指標和網路來源出現的情緒差別優劣，為什麼要用網路來源(暫定)
+	- 網路情緒對股市影響
+		- ~~金融指標和網路來源出現的情緒差別優劣，為什麼要用網路來源(暫定)~~
+		- 網路情緒對股市預測的歷史
+		- 開抄proposal
 		- [[Intraday online investor sentiment and return patterns in the U.S. stock market (2017)]]
 	- 網路情緒蒐集
 		- 回顧和分析其他挖掘手段或來源，如yahoo新聞和google搜尋量
@@ -58,11 +60,15 @@ Fin-BERT: 用於股市情緒的預訓練語言模型
 - 結論
 
 ## 2. 文獻回顧
+### 2.1 網路情緒對股市影響
+根據行為經濟學的研究結果，情緒驅動交易可能使市場中股票價值偏離其基本價值(De Long et al. 1990)，在確定情緒和股價表現存在相關性後，許多研究開始試圖量化情緒指數並試圖找出情緒和波動間的關係，如Baker and Wurgler(2006)就透過市場數據做為情緒代理指數研究其間的關係，並發現一定程度的預測性。
 
-### 2.1 情緒對股市影響
+透過網路資訊模擬情緒指數進行股市預測的研究能夠追朔自Antweiler & Frank (2004)對於Yahoo財經新聞等來源的開創性研究，研究中首次發現了在網路上所發佈有關道瓊指數的資訊有助於預測市場波動，並影響日後許多有關利用網路資訊預測股市的相關研究。
+
+在基於機器學習對股市進行的預測方面，許多研究將網路資訊所呈現的投資人情緒作為特徵提升預測的準確率。
 ### 2.2 網路情緒蒐集
-### Bert
-### 意見分類
+### 2.3 Bert
+### 2.4 意見分類
 
 ## Codes
 [Stocktwit_sentiment_analysis Workspace – Weights & Biases (wandb.ai)](https://wandb.ai/alan8365/Stocktwit_sentiment_analysis?workspace=user-alan8365)
