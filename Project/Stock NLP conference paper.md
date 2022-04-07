@@ -12,12 +12,11 @@ Fin-BERT: 用於股市情緒的預訓練語言模型
 
 ## TODO
 #todo
-- [ ] Training mask model
-	- [ ] Bert (optional)
-	- [ ] Fin-Bert
-- [ ] Training head model
-	- [ ] Bert
-	- [ ] Fin-Bert
+- [ ] 2.4意見分類要不要放
+- [ ] 3.2要不要加多一點資料描述
+- [ ] 3.3 3.4內容太少
+- [ ] 公式應該放甚麼
+- [ ] 模型架構應該放嗎
 
 ## 摘要
 
