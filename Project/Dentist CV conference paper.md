@@ -94,7 +94,7 @@ Introduction and related work reference by:
 ### 3.1 流程
 ### 3.2 資料處理
 ### 3.3 模型訓練
-## 4. 實驗
+## 4. 實驗12
 ### 4.1 實驗設置
 - 比較對象訓練
 ### 4.2 結果

@@ -3,6 +3,7 @@
 - [x] Point out the four canine teeth
 - [ ] Reasoning why 43 special. 
 - [ ] edge detection test.
+	- [ ] test to bounding between 4-bound
 
 ## Idea test
 
