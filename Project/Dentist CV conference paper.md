@@ -80,19 +80,28 @@ Introduction and related work reference by:
 > 承接
 ## 2. 文獻回顧
 
-### 2.1 牙齒編號
+### 2.1 牙位辨識
 
-- 邊緣偵測方法VS機器學習方法
-- CNN方法VS???
-
+- [x] 邊緣偵測方法VS機器學習方法
+- [ ] 過去CNN方法回顧，說他們資料集用的有夠多，浪費
 ### 2.2 YOLOv5
-
+- YOLO特點講講講
+- YOLOv2 anchor講一講
+- YOLOv3 down sampling講一講
+- YOLOv4 損失函數看要不要講
+- YOLOv5 講一下大小跟速度就好
 ## 3. 方法
-
-
-
+### 3.1 流程
+### 3.2 資料處理
+### 3.3 模型訓練
 ## 4. 實驗
+### 4.1 實驗設置
+- 比較對象訓練
+### 4.2 結果
 
 ## 5. 結論
-
+### Contribution
+### Future work
+- 將來可能使用SSL方法在速度和準確度間tradeoff
+### Limination
 ## Reference
