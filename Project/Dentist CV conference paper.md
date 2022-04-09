@@ -10,9 +10,9 @@ Introduction and related work reference by:
 ## Outlines & Todo
 #todo
 - [ ] 緒論
-	- [ ] 牙科的重要性
+	- [x] 牙科的重要性
 	- [ ] 牙醫師自行標註的缺點
-	- [ ] 資料如何取得
+	- [x] 資料如何取得
 	- [ ] 為何使用YOLO
 - [ ] 文獻
 	- [ ] 牙科資料集缺失
