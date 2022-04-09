@@ -25,6 +25,7 @@ Introduction and related work reference by:
 - [ ] 實驗
 	- [ ] 實驗細節
 	- [ ] 實驗比較
+		- [ ] 趕快把VGG-16嚕出來
 	- [ ] 檢查第50輪訓練的cls的分類狀況
 	- [ ] 實驗結果
 - [ ] 結論
