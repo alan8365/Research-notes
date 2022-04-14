@@ -83,6 +83,9 @@ Fin-BERT: 用於股市情緒的預訓練語言模型
 - [🤗 Transformers (huggingface.co)](https://huggingface.co/docs/transformers/index)
 - [Datasets (huggingface.co)](https://huggingface.co/docs/datasets/index)
 ## Reference
-
+format problem
+- 3
+- 8
+- 9
 ### Reading later
 ![[Paper list#for stock NLP conference]]
