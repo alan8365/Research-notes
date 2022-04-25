@@ -3,8 +3,8 @@
 ## Metadata
 
 Author: 
-Publish year: 2018
-[source](https://www-sciencedirect-com.nutc.idm.oclc.org/science/article/pii/S0957417418302252)
+
+[source](https://www-sciencedirect-com.nutc.idm.oclc.org/science/article/pii/S0097849322000231)
 
 ## Abstract
 
@@ -19,9 +19,7 @@ Publish year: 2018
 | Limitation |             |
 
 ### Reading purpose
-
-- As the reference with [[Dentist CV conference paper]] 
-
+- [[Computer vision (1102)]]
 ### Judgment
 
 ## Reference

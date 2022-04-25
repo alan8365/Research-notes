@@ -3,6 +3,7 @@
 - [x] Point out the four canine teeth
 - [ ] Reasoning why 43 special. 
 - [ ] edge detection test.
+	- [ ] test to bounding between 4-bound
 
 ## Idea test
 
@@ -15,7 +16,6 @@ python detect.py --weights .\dentist_cv\exp12\weights\best.pt --source .\dataset
 
 ## Idea collect
 ### Edge detection
-
 [MarkMoHR/Awesome-Edge-Detection-Papers: A collection of edge/contour/boundary detection papers and toolbox. (github.com)](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)
 
 ### Optional
@@ -33,7 +33,6 @@ python detect.py --weights .\dentist_cv\exp12\weights\best.pt --source .\dataset
 - 
 
 ## Reference
-
 - [Deep Instance Segmentation of Teeth in Panoramic X-Ray Images | IEEE Conference Publication | IEEE Xplore (oclc.org)](https://ieeexplore-ieee-org.nutc.idm.oclc.org/document/8614355)
 - [Automatic segmenting teeth in X-ray images: Trends, a novel data set, benchmarking and future perspectives - ScienceDirect (oclc.org)](https://www-sciencedirect-com.nutc.idm.oclc.org/science/article/pii/S0957417418302252)
 	- 超級review
