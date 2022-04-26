@@ -1,6 +1,6 @@
 ## Week 15
 
-paper report [[Optimized 2D ball trees for shape layout applications]]
+paper report [[Papers/Optimized 2D ball trees for shape layout applications]]
 
 ## Week 3
 

@@ -1,5 +1,9 @@
 [110_下學期書報 - Google Drive](https://drive.google.com/drive/folders/15Kjt4BxRB1usgOTQ9Xuqwwj3xnvg_8hi)
 
+## 20200428
+
+
+
 ## 20200317
 homework
 - coding excel
@@ -11,6 +15,9 @@ random progress presentation
 - paper finding method
 - coding situation
 
+### NLP
+- 情緒指數參雜金融面來源
+- 假如考慮金融面來統計和金融成分會大過資訊成分
 
 ## 20200310 
 - Find 5 queries to review in WoS.
@@ -36,6 +43,9 @@ Key paepr Candidate
 	- Proceedings Papers: 5
 	- Book Chapters: 1
 	- Editorial Materials: 1
+- TS=(stock AND predict* AND sentiment NOT proxy)
+- TS=(stock AND predict* AND sentiment AND informaion)
+- TS=(stock AND predict* AND sentiment AND online)
 - stock prediction news
 - financial sentiment analysis
 
