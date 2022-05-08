@@ -168,26 +168,58 @@ The core tensor $C$ reflects the strength of the relations between these two fac
 
 ## 4. Experimental Evaluation
 
+we conducted a series of experiments using actual market transaction data from January 1, 2015, to December 31, 2015.
+
 ### 4.1 Experimental Data
 
+Fundamental data: This dataset contains the financial statuses of 100 companies listed on the China Securities Index (CSI 100) between January 1, 2015, and December 31, 2015.
+
+Media data: We selected 45,021 news data points related to the 91 selected companies listed on the CSI 100 from www.eastmoney.com, which is one of the largest financial information websites in China.
+
+![[Pasted image 20220507163810.png]]
+
 ### 4.2 Evaluation Settings
+
+![[Pasted image 20220507164253.png]]
+
+In addition, considering the financial scenario, the Sharpe ratio is applied to measure the investment robustness of the proposed multimodal event-driven LSTM framework.
+![[Pasted image 20220507164341.png]]
+
+We take the further step of evaluating the $k$-day-ahead influence of media information.
+![[Pasted image 20220507164306.png]]
 
 ### 4.3 Model Parameters
 
 ### 4.4 Comparison
 
+![[Pasted image 20220507164710.png]]
+
+![[Pasted image 20220507164851.png]]
+
 ### 4.5 Effectiveness of the Proposed Approach
 
 #### 4.5.1 Effectiveness of the Tensor Representation
-
+![[Pasted image 20220507165005.png]]
 #### 4.5.2 Effectiveness of the Event-Driven Mechanism
-
+![[Pasted image 20220507165049.png]]
 #### 4.5.3 Effectiveness of Stock Relatedness
-
+![[Pasted image 20220507165122.png]]
 ### 4.6 Investment Simulation
+![[Pasted image 20220507165312.png]]
 
+![[Pasted image 20220507165328.png]]
 ## 5. Conclusion and Future Work
 
+### Contribution
+We proposed a tensor representation approach for modeling multimodal market information.
+
+we proposed an event-driven memory mechanism to address the sampling heterogeneity among different data sources for multimodal learning.
+
+Our method achieved a return of 136.42 percent in an investment simulation.
+### Future work
+the proposed tensor-based event-driven LSTM framework can be generalizable to many other multimodal learning problems in which the information space consists of several interacting data modes with sampling heterogeneity. 
+	in health care monitoring, both daily monitoring indicators and random sickness records are applied to detect health abnormalities [47].
+	the prediction of crop growth in agriculture based on daily growth indicators and uncertain conditions, including rainfall, wind and disasters [48].
 ## Reference
 
 ## Dark Theme CSS
