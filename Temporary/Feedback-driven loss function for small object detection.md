@@ -77,6 +77,43 @@ Much effort has been put into the network structure, scale variation, and augmen
 ![[Pasted image 20220518105825.png]]
 
 ## 4. Experiments
+
+Experiments are performed on the MS COCO dataset which involving 80 categories of objects, Pascal VOC dataset [31] which involving 20 categories of objects and a dedicated small object dataset DOTA [32]. 
+
+Firstly, compare the performance of Yolov3 equipped with original loss function and Feedback-driven loss function respectively.
+
+Then compare the difference between the Feedback-driven loss function and other effective methods to improve small object detection performance.
+
+Finally, the Feedback-driven loss function is applied to different state-of-the-art object detectors to verify its robustness.
+
+### 4.1. Comparison with common baselines in Yolov3
+
+![[Pasted image 20220518153512.png]]
+
+### 4.2. Comparison with other methods
+
+![[Pasted image 20220518153649.png]]
+
+### 4.3. Evaluation the loss distribution over different scales
+
+![[Pasted image 20220518153847.png]]
+
+### 4.4. Evaluation on longer training periods
+![[Pasted image 20220518154044.png]]
+### 4.5. Evaluation on other datasets
+
+![[Pasted image 20220518154331.png]]
+
+### 4.6. Evaluation on other SOTA object detectors
+
+![[Pasted image 20220518154531.png]]
+
 ## 5. Conclusion
+
+We proposed an effective Feedback-driven loss function for small object detection. 
+
+The novel loss function is not only scale-sensitive but also loss distribution-sensitive, the less the proportion of small object loss is, the less the object size is, the greater gain can be obtained by the small objects.
+
+And it is remarkable that the Feedback-driven loss function requires negligible additional computation and won't increase the weight of the detectors, so it won't affect the inference time.
 
 ## Reference
