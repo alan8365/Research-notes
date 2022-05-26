@@ -1,5 +1,5 @@
 ## Record
-Physics face
+Physics surface
 > A blockchain is a public database that is updated and shared across many computers in a network.
 > 
 > "Block" refers to data and state being stored in consecutive groups known as "blocks". If you send ETH to someone else, the transaction data needs to be added to a block to be successful.
