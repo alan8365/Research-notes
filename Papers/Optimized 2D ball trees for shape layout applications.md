@@ -115,4 +115,58 @@ The evaluation of a particular ball tree [construction algorithm](https://www-s
 
 > 看第七章需不需要這張的解釋才能理解
 
+### 6.3. Tree construction
+
+> 討論了影響時間和面積的各個因素，感覺不是很重要，回頭看貢獻決定要不要放
+> 還有EL優化
+
+![[Pasted image 20220527151654.png]]
+
+![[Pasted image 20220527151803.png]]
+
+### 6.4. Priority queue ranking functions
+
+> 感覺不是很重要
+
+### 6.5. Query performance
+
+> 有三個query的實驗結果，雖然前面講了一堆，看起來放平均就好了
+
+![[Pasted image 20220527152536.png]]
+
+## 7. Shape layout with ball trees
+配網站講
+[Shape Layout / Luis Retondaro / Observable (observablehq.com)](https://observablehq.com/d/9f3143bee1bbd0e3)
+
+### 7.1. Patch preparation
+
+We employ a simple image segmentation algorithm which considers all pixels sufficiently similar to a given color as background.
+
+These are organized in ball trees using the $Q$  algorithm, with $\alpha = 0.5$ .
+
+### 7.2. Distance-based clustering
+
+### 7.3. Collision avoidance
+
+![[Pasted image 20220527154911.png]]
+
+### 7.5. Empirical evaluation
+
+![[Pasted image 20220527155034.png]]
+
+![[Pasted image 20220527155058.png]]
+
+## 8. Conclusions and future work
+
+In this work we sought to investigate their use for rearranging the contents of a scanned document
+
+From creating ball trees that approximate the shapes of image patches to layout operations that can benefit from the relative ease in which ball trees tackle distance-based queries.
+
+
+### Future work
+
+The adjustable algorithm described in Section [3](https://www-sciencedirect-com.nutc.idm.oclc.org/science/article/pii/S0097849322000231#sec3) for creating ball collections from images could be enhanced with criteria that guarantee a given error margin
+
+The collision avoidance algorithm could benefit from a more careful attention to stacking artifacts.
+
 ## Reference
