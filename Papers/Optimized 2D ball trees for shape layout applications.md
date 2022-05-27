@@ -105,4 +105,14 @@ The evaluation of a particular ball tree [construction algorithm](https://www-s
 
 ## 6. Construction and query experiments
 
+### 6.1. Test data
+
+![[Pasted image 20220527125643.png]]
+
+![[Pasted image 20220527125502.png]]
+
+### 6.2. Query testing methodology
+
+> 看第七章需不需要這張的解釋才能理解
+
 ## Reference
