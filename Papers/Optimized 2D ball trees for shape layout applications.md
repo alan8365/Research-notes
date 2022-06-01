@@ -25,11 +25,28 @@ Author:
 ## 1. Introduction
 > need more
 
+### Background
+
+Layout is one of the many applications where 2D shapes must be processed and queried in order to extract spatial relationships such as whether they contain a point or are contained in a rectangular window.
+
 In common off-the-shelf authoring software, elements such as text, pictures and diagrams are approximated by bounding box proxies
 
 ![[Pasted image 20220515200527.png]]
 
+### Intro
+We propose optimizing the computation of proximity queries between arbitrary 2D shapes by using two key ideas: 
+
+using ball (circle) collections as proxies
+organizing these collections in ball trees [1], [2], [3], a variety of bounding volume hierarchy (BVH).
+
+
 ### 1.1. Contributions
+
+- We propose adding hierarchical grouping and collision avoidance as interaction devices in layout applications by using sets of circles organized in ball trees as geometric proxies.
+- The three best-performing ball tree construction algorithms described by Omohundro [1] were extended with what we call the Enclosing Leaves (EL) optimization (Section 2.3).
+- A new algorithm for approximating a binary image with ball sets of adjustable cardinality (Section 3).
+- Three new ball tree construction algorithms are proposed, also extended with the EL optimization (Section 4).
+- Two shape layout operations and algorithms for their implementation using ball trees are proposed: distance-based clustering and shape dragging using collision avoidance (Section 7).
 
 ## 2. Fundamentals
 ### 2.1. Shape layout
@@ -100,6 +117,8 @@ Next, we present a quadratic algorithm (Q) and two others that use Voronoi neigh
 
 ## 5. Query algorithms
 The evaluation of a particular ball tree [construction algorithm](https://www-sciencedirect-com.nutc.idm.oclc.org/topics/computer-science/construction-algorithm "Learn more about construction algorithm from ScienceDirect's AI-generated Topic Pages"), in addition to an analysis of its time and space complexity, typically includes measurements of certain characteristics of trees built from assorted inputs.
+
+![[Pasted image 20220527175714.png]]
 
 > 看完決定要不要講，有點細又不講距離怎麼算
 
