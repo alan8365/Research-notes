@@ -59,6 +59,13 @@ python detect.py --weights .\dentist_cv\exp12\weights\best.pt --source .\dataset
 ```
 
 ## Idea collect
+### Caries Detection
+[[2012.13666] PaXNet: Dental Caries Detection in Panoramic X-ray using Ensemble Transfer Learning and Capsule Classifier (arxiv.org)](https://arxiv.org/abs/2012.13666)
+[Classification of Dental Cavities from X-ray images using Deep CNN algorithm | IEEE Conference Publication | IEEE Xplore (oclc.org)](https://ieeexplore-ieee-org.nutc.idm.oclc.org/document/9143013)
+
+### Small object detection
+[Feedback-driven loss function for small object detection - ScienceDirect (oclc.org)](https://www-sciencedirect-com.nutc.idm.oclc.org/science/article/pii/S0262885621001025?casa_token=PQfGADMDursAAAAA:NCf66YL4Nzd-7eh61sKh0x_14Zub3kMK1I8QJJ0mtSXsn3sJcgtFYp4V1u-Dax6RBxBiP2m7)
+
 ### Edge detection
 [MarkMoHR/Awesome-Edge-Detection-Papers: A collection of edge/contour/boundary detection papers and toolbox. (github.com)](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)
 
