@@ -46,6 +46,14 @@
 	- 測試其他架構的model是否適合
 
 ## Idea test
+### Edge
+- Sobel edge detection
+- Gaussian filter (Bilateral filter)
+	- Not just Gaussian filter by [OpenCV: Smoothing Images](https://docs.opencv.org/4.x/d4/d13/tutorial_py_filtering.html)
+	- Inspire by [A review on lung boundary detection in chest X-rays | SpringerLink](https://link.springer.com/article/10.1007/s11548-019-01917-1) and [[2012.13666] PaXNet: Dental Caries Detection in Panoramic X-ray using Ensemble Transfer Learning and Capsule Classifier (arxiv.org)](https://arxiv.org/abs/2012.13666)
+- Pooling to sharpening the edge
+> Need to study more about ROI extracting before try myself.
+> only teeth can not determined ROI, have to find the edge of mandible.
 
 ### SAHI
 - 和絕對位置相關的不能使用
