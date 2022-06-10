@@ -17,14 +17,15 @@
 	- [x] 弄成表格之類好讀一點
 	- [x] 簡略問題從兩方面下手
 		- [x] 第一是把細節全部講仔細一點，實際判斷的依據跟準則等等
-		- [ ] 第二是再加一到兩個編碼內容
 - 四、研究結果
 	- [ ] 編碼完的統計圖表
-		- [ ] 每個coding的數量混字數
-		- [ ] 圖表呈現方式可使用依照年份的研究數量
+		- [x] 每個coding的數量混字數
+		- [x] 圖表呈現方式可使用依照年份的研究數量
 	- [ ] 從圖表中獲得的資訊
-	- [ ] 參考一下其他review paper再加
-		- [ ] [Deep learning for caries detection: A systematic review - ScienceDirect (oclc.org)](https://www-sciencedirect-com.nutc.idm.oclc.org/science/article/pii/S0300571222001725?casa_token=uwRg-NQMf8YAAAAA:wZvbJmec2Tk-qdK5CtqEpbyoil2samW861Q7z-HrxN_6mhcVDoAdBL5zN7R1mzXUp6t6i9OcviQ#bib0063)
+	- [x] 參考一下其他review paper再加
+		- [x] [Deep learning for caries detection: A systematic review - ScienceDirect (oclc.org)](https://www-sciencedirect-com.nutc.idm.oclc.org/science/article/pii/S0300571222001725?casa_token=uwRg-NQMf8YAAAAA:wZvbJmec2Tk-qdK5CtqEpbyoil2samW861Q7z-HrxN_6mhcVDoAdBL5zN7R1mzXUp6t6i9OcviQ#bib0063)
+- 五、討論與建議
+	- [ ] 考慮多個來源的研究數量很少，希望大家多多研究
 
 ## 摘要
 
