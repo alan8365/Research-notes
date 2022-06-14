@@ -19,6 +19,8 @@
 		- [x] [Deep learning for caries detection: A systematic review - ScienceDirect (oclc.org)](https://www-sciencedirect-com.nutc.idm.oclc.org/science/article/pii/S0300571222001725?casa_token=uwRg-NQMf8YAAAAA:wZvbJmec2Tk-qdK5CtqEpbyoil2samW861Q7z-HrxN_6mhcVDoAdBL5zN7R1mzXUp6t6i9OcviQ#bib0063)
 - 五、討論與建議
 	- [ ] 考慮多個來源的研究數量很少，希望大家多多研究
+	- [ ] 在其他國家中機器學習的研究較少，若能找到適合進行文本分析的來源應用機器學習方法則可能彌補其他國家的空白
+	- [ ] 本研究主要圍繞於資訊來源和預測方法，希望將來有研究能夠將各方法實現並使用通用資料集驗證個方法的指標，以此得出不同來源和不同方法間的適合度。
 
 ## 摘要
 
