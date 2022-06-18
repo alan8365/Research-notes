@@ -1,3 +1,3 @@
-1. Momo always be right
-2. Lulu have to sleep at night
-3. Body temperture will rise at sleep
+1. Momo always right
+2. Lulu has to sleep at night
+3. Body temperature will rise at sleep
