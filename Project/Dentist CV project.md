@@ -52,7 +52,7 @@
 	- 測試其他架構的model是否適合
 
 ## Idea test
-### Genetic Algorithm
+### Genetic Algorithm (x)
 [Automated Teeth Extraction from Dental Panoramic X-Ray Images using Genetic Algorithm | IEEE Conference Publication | IEEE Xplore (oclc.org)](https://ieeexplore-ieee-org.nutc.idm.oclc.org/document/9180937)
 
 The last step is separating images of maxilla and mandible into a group of isolated tooth images. The process is similar to the jaw separation, whereas there are multiple lines here. To find all the lines simultaneously and without any predefined parameters, a genetic algorithm based method is employed. Tooth morphology varies among the dentition and the genetic algorithm can detect the best fitting lines due to its randomness. Firstly, 30 vertical lines are randomly generated over the image of each jaw as the chromosomes of first population. On one hand, the number of chromosomes here is more than the average number of teeth in each jaw, to make sure that most of the gaps between teeth are included. On the other hand, taking into consideration the width of a typical tooth body and the line removal techniques being discussed further, assigning any number higher than 30 will lead to the same result. On the next step, members of population are ranked based on a predefined cost function; formulated in equation (1):
@@ -75,6 +75,10 @@ As mentioned above, generated lines are more than actual available gaps, hence, 
 - Pooling to sharpening the edge
 > Need to study more about ROI extracting before try myself.
 > only teeth can not determined ROI, have to find the edge of mandible.
+
+- An automatic and effective tooth isolation method for dental radiographs
+	- accuracy rates of 95.63% and 98.71%
+	- [Sci-Hub | An automatic and effective tooth isolation method for dental radiographs. Opto-Electronics Review, 21(1) | 10.2478/s11772-012-0051-9](https://sci-hub.se/10.2478/s11772-012-0051-9)
 
 ### SAHI
 - 和絕對位置相關的不能使用
