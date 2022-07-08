@@ -84,6 +84,9 @@ As mentioned above, generated lines are more than actual available gaps, hence, 
 	- accuracy rates of 95.63% and 98.71%
 	- [Sci-Hub | An automatic and effective tooth isolation method for dental radiographs. Opto-Electronics Review, 21(1) | 10.2478/s11772-012-0051-9](https://sci-hub.se/10.2478/s11772-012-0051-9)
 
+![[Pasted image 20220708142144.png]]
+沒有牙縫無法分割
+
 ### SAHI
 - 和絕對位置相關的不能使用
 - 可能只能用在蛀牙上
